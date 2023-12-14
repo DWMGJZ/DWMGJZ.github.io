@@ -1,0 +1,65 @@
+{
+  "id": "4364949",
+  "name": "下导航",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5288368",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "38484377",
+      "name": "添加-copy",
+      "font_class": "tianjia-copy",
+      "unicode": "ee18",
+      "unicode_decimal": 60952
+    },
+    {
+      "icon_id": "577364",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "2193693",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "10582820",
+      "name": "收藏夹",
+      "font_class": "shoucangjia",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "10715449",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "12387157",
+      "name": "药水",
+      "font_class": "yaoshui",
+      "unicode": "e90f",
+      "unicode_decimal": 59663
+    },
+    {
+      "icon_id": "34666923",
+      "name": "通知",
+      "font_class": "tongzhi",
+      "unicode": "ee17",
+      "unicode_decimal": 60951
+    }
+  ]
+}
