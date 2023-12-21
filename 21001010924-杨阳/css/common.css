@@ -152,36 +152,12 @@ font-size: 40px;
     display: none;
 }
 
-.main .box ul li .text {
-    line-height: 20px;
-    height: 65px;
-    width: 110px;
-    float: left;
-    margin-left: 2px;
-}
-
-.main .box ul li .text .red {
-    color: #00c8d3;
-    font-weight: bold;
-    float: left;
-    width: 40px;
-}
-
 .top .selected {
     
     color: #0e0d0d;
     position: relative;
     font-size: 20px;
    
-}
-
-
-.main .box ul li .text strong {
-    height: 40px;
-    width: 110px;
-    overflow: hidden;
-    display: block;
-    font-weight: normal;
 }
 
 .main .box ul li .img img {
@@ -207,9 +183,6 @@ font-size: 40px;
 .main .top {
 
     width: 100%;
-/*     border-bottom-width: 1px;
-     border-bottom-style: solid;  */
-/*      border-bottom-color: #c80300;  */
     padding-top: 10px;
     margin-bottom: 15px;
     margin-top: 10%;
@@ -231,7 +204,7 @@ font-size: 40px;
     padding-left: 10px;
 } 
 
-.main .box ul li {
+.main .box ul li .alist{
     list-style-type: none;
     height: 75px;
      width: 180px; 
@@ -247,19 +220,19 @@ font-size: 40px;
     display: block;
 }
 
-.swiper-slide img {
+.s1 .swiper-slide img {
 display: block;
 width: 100%;
 height: 100%;
 object-fit: cover;
 }
 
-.swiper {
+.s1 .swiper {
 width: 100%;
 height: 100%;
 }
 
-.swiper-slide {
+.s1 .swiper-slide {
 text-align: center;
 font-size: 18px;
 background: #fff;
@@ -307,3 +280,69 @@ margin-top: 80px;
     column-gap: 10px;
     margin-top: 100px;
 } 
+
+.s2 {
+    width: 90%;
+    height: 40px;
+    padding: 0;
+    display: flex;
+    font-size: 20px;
+    color: #000;
+    margin-top: 100px;
+    background-color: #ebe9e9;
+    margin-top: 70px;
+    overflow: hidden;
+}
+
+.s2 .gg{
+    width: 50px;
+    margin-top: 10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    background-color: orange;
+}
+
+.s2 .swiper-wrapper{
+   
+   margin-left: 50px;
+  margin-top: 12px;
+}
+
+.blist{
+    display: flex;
+  flex-wrap: wrap;
+}
+.blist li{
+width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+   align-items: baseline;
+   
+  
+}
+.blist img{
+    width: 100%;
+}
+.blist p{
+   
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    background-color: orange;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+}
+
+.blist h3{
+    font-size: 14px;
+    color: #333;
+   width: 60%;
+}
+
+.blist a{
+
+    color: #05b253;
+    margin-left: 40px;
+     
+}
